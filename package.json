@@ -1,0 +1,16 @@
+{
+  "name": "okta_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@okta/jwt-verifier": "^1.0.0",
+    "dotenv": "^8.2.0",
+    "fastify": "^3.3.0"
+  }
+}
